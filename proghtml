@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="c.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+ 
+		<!-- jQuery library -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+		<!-- Latest compiled JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	</head>
+
+	<body>
+
+		<section    id="topbar" class="d-flex align-items-center">
+			<div class="container d-flex justify-content-center justify-content-md-between">
+				<div  class="col-md-12"  >
+					<i  class="bi bi-envelope d-flex align-items-center"><a id="gm" href="mailto:info@allindiapackersgroup.in">info@allindiapackersgroup.in</a></i>
+					<i class="bi bi-phone d-flex align-items-center ms-4"><span></span></i>
+				</div>
+				<div class="col-md-12"  class="social-links d-none d-md-flex align-items-center">
+					
+					<a  href="#" class="facebook"><i class="fa fa-facebook" res></i></a>
+					<a  href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+					<a  href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+					<a  href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+				</div>
+			</div>
+		</section>
+ 
+		<header class="header">
+			<nav class="navbar navbar-style">
+				<div class="container" >
+					<div class="navbar-header">
+						<img src="https://www.allindiapackersgroup.in/images/logo.png" alt="APG" style="height:100px ;width:100px;"  class="img-fluid">
+					</div>
+					<ul class="nav navbar-nav navbar-right">
+						<li> <a style="color:orangered;box-shadow: 2px 3px 3px coral;padding:8px;margin-top:10px;margin-right:11px;font-family:bold;" href="">HOME </a></li>
+                        <li> <a style="color:orangered;box-shadow: 2px 3px 3px coral;padding:8px;margin-top:10px;margin-right:10px" href="">About </a></li>
+						<li> <a style="color:orangered;box-shadow: 2px 3px 3px coral;padding:8px;margin-top:10px;margin-right: 10px;"  href="">Contact </a></li>
+           					</ul>
+			  		
+			  		</div>
+			  	</nav>
+
+<div class="col-lg-12 text-center text-lg-left" style="background-color:  #f3f1f0;box-shadow: 5px 10px 10px #888888;">
+<h3>Welcome To APM Packers And Movers Group</h3>
+<p> ALL India Packers and Movers Group is a company with a very sound reputation in the packers and movers industry. We are a local movers company is an illustrious one and is dedicated to providing our customers with dependable, world-class, and perfect solutions to their entire satisfaction. We have been offering packers and movers services for over a decade and doing our best to win the trust and confidence of our customers. By choosing our quality relocation services, you can rest assured that our services would deliver a memorable experience to you.</p>
+</div>
+		<div class="row">
+
+						
+			<div class="col-md-3"  style="background-color:#f3f1f0;margin-left:4%;margin-right: 4%;margin-top:5%;border-radius:2%;border: 0px solid;box-shadow: 5px 10px 10px #888888;">
+				<img src="add-post.png" alt="APG" style="height:50px ;width:50px;position: relative;bottom: 20px;left:42%;"  class="img-fluid">
+				<div class="icon-box aos-init aos-animate" data-aos="fade-up">
+					<div class="icon">
+						<i class="bi bi-briefcase"></i>
+					</div>
+					<i style= class="bi bi-briefcase"></i>
+					<h4 class="title" style="font-family:bold;text-align: center;position: relative;bottom:15px;"><a href="">Local</a></h4>
+					<p  class="description" style="text-align: center;position: relative;bottom:30px;"><br>We are ready to serve you with our amazing c<br>local services. And we are well-equipped with everything <br> to cater to your entire house shifting needs.</p>
+				</div>
+			</div>
+
+                     
+                     <div class="col-md-3"  style="background-color:#f3f1f0;margin-left:4%;margin-right: 4%;margin-top:5%;border-radius:2%;border: 0px solid;box-shadow: 5px 10px 10px #888888;">
+				<img src="add-post.png" alt="APG" style="height:50px ;width:50px;position: relative;bottom: 20px;left:42%;"  class="img-fluid">
+				<div class="icon-box aos-init aos-animate" data-aos="fade-up">
+					<div class="icon">
+						<i class="bi bi-briefcase"></i>
+					</div>
+					<i style= class="bi bi-briefcase"></i>
+					<h4 class="title" style="font-family:bold;text-align: center;position: relative;bottom:15px;"><a href="">Local</a></h4>
+					<p  class="description" style="text-align: center;position: relative;bottom:30px;"><br>We are ready to serve you with our amazing c<br>local services. And we are well-equipped with everything <br> to cater to your entire house shifting needs.</p>
+				</div>
+			</div>
+			<div class="col-md-3"  style="background-color:#f3f1f0;margin-left:4%;margin-right: 4%;margin-top:5%;border-radius:2%;border: 0px solid;box-shadow: 5px 10px 10px #888888;">
+				<img src="add-post.png" alt="APG" style="height:50px ;width:50px;position: relative;bottom: 20px;left:42%;"  class="img-fluid">
+				<div class="icon-box aos-init aos-animate" data-aos="fade-up">
+					<div class="icon">
+						<i class="bi bi-briefcase"></i>
+					</div>
+					<i style= class="bi bi-briefcase"></i>
+					<h4 class="title" style="font-family:bold;text-align: center;position: relative;bottom:15px;"><a href="">Local</a></h4>
+					<p  class="description" style="text-align: center;position: relative;bottom:30px;"><br>We are ready to serve you with our amazing c<br>local services. And we are well-equipped with everything <br> to cater to your entire house shifting needs.</p>
+				</div>
+			</div>
+			<div class="col-md-3"  style="background-color:#f3f1f0;margin-left:4%;margin-right: 4%;margin-top:5%;border-radius:2%;border: 0px solid;box-shadow: 5px 10px 10px #888888;">
+				<img src="add-post.png" alt="APG" style="height:50px ;width:50px;position: relative;bottom: 20px;left:42%;"  class="img-fluid">
+				<div class="icon-box aos-init aos-animate" data-aos="fade-up">
+					<div class="icon">
+						<i class="bi bi-briefcase"></i>
+					</div>
+					<i style= class="bi bi-briefcase"></i>
+					<h4 class="title" style="font-family:bold;text-align: center;position: relative;bottom:15px;"><a href="">Local</a></h4>
+					<p  class="description" style="text-align: center;position: relative;bottom:30px;"><br>We are ready to serve you with our amazing c<br>local services. And we are well-equipped with everything <br> to cater to your entire house shifting needs.</p>
+				</div>
+			</div>
+			<div class="col-md-3"  style="background-color:#f3f1f0;margin-left:4%;margin-right: 4%;margin-top:5%;border-radius:2%;border: 0px solid;box-shadow: 5px 10px 10px #888888;">
+				<img src="add-post.png" alt="APG" style="height:50px ;width:50px;position: relative;bottom: 20px;left:42%;"  class="img-fluid">
+				<div class="icon-box aos-init aos-animate" data-aos="fade-up">
+					<div class="icon">
+						<i class="bi bi-briefcase"></i>
+					</div>
+					<i style= class="bi bi-briefcase"></i>
+					<h4 class="title" style="font-family:bold;text-align: center;position: relative;bottom:15px;"><a href="">Local</a></h4>
+					<p  class="description" style="text-align: center;position: relative;bottom:30px;"><br>We are ready to serve you with our amazing c<br>local services. And we are well-equipped with everything <br> to cater to your entire house shifting needs.</p>
+				</div>
+			</div>
+			<div class="col-md-3"  style="background-color:#f3f1f0;margin-left:4%;margin-right: 4%;margin-top:5%;border-radius:2%;border: 0px solid;box-shadow: 5px 10px 10px #888888;">
+				<img src="add-post.png" alt="APG" style="height:50px ;width:50px;position: relative;bottom: 20px;left:42%;"  class="img-fluid">
+				<div class="icon-box aos-init aos-animate" data-aos="fade-up">
+					<div class="icon">
+						<i class="bi bi-briefcase"></i>
+					</div>
+					<i style= class="bi bi-briefcase"></i>
+					<h4 class="title" style="font-family:bold;text-align: center;position: relative;bottom:15px;"><a href="">Local</a></h4>
+					<p  class="description" style="text-align: center;position: relative;bottom:30px;"><br>We are ready to serve you with our amazing c<br>local services. And we are well-equipped with everything <br> to cater to your entire house shifting needs.</p>
+				</div>
+			</div>
+				</div>
+		<div style="margin:0% ;margin-top:5%;background-color:black;font-family:bold;font-style:bold;width: 100% ;" class="footer-top">
+<div style="color:whitesmoke;" class="container">
+<div style="color: orangered;" class="row">
+<div  class="col-lg-3 col-md-6 footer-links">
+<h4>Branches</h4>
+
+<ul>
+<li ><i  class="bx bx-chevron-right"></i> <a style= href="https://www.allindiapackersgroup.in/packers-and-movers-agartala/">Packers and Movers Agartala</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-agra/">Packers and Movers Agra</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-ahmedabad/">Packers and Movers Ahmedabad</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-ahmedabad-2/">Packers and Movers Ahmedabad-2</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-aligarh/">Packers and Movers Aligarh</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-amravati/">Packers and Movers Amravati</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-amritsar/">Packers and Movers Amritsar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-ankleshwar/">Packers and Movers Ankleshwar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-asansol/">Packers and Movers Asansol</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-aurangabad/">Packers and Movers Aurangabad</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-balotra/">Packers and Movers Balotra</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bangalore/">Packers and Movers Bangalore</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bareilly/">Packers and Movers Bareilly</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-barmer/">Packers and Movers Barmer</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bathinda/">Packers and Movers Bathinda</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bhagalpur/">Packers and Movers Bhagalpur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bharuch/">Packers and Movers Bharuch</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bhilai/">Packers and Movers Bhilai</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bhilwara/">Packers and Movers Bhilwara</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bhiwadi/">Packers and Movers Bhiwadi</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bhopal/">Packers and Movers Bhopal</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-bhubaneswar/">Packers and Movers Bhubaneswar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-chandigarh/">Packers and Movers Chandigarh</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-chennai/">Packers and Movers Chennai</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-cuttack/">Packers and Movers Cuttack</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-md-6 footer-links">
+<h4>Branches</h4>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-delhi/">Packers and Movers Delhi</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-delhi-2/">Packers and Movers Delhi-2</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-deoghar/">Packers and Movers Deoghar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-dhanbad/">Packers and Movers Dhanbad</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-durgapur/">Packers and Movers Durgapur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-faridabad/">Packers and Movers Faridabad</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-gandhidham/">Packers and Movers Gandhidham</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-gandhinagar/">Packers and Movers Gandhinagar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-ghaziabad/">Packers and Movers Ghaziabad</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-goa/">Packers and Movers Goa</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-gorakhpur/">Packers and Movers Gorakhpur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-guntur/">Packers and Movers Guntur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-gurugram/">Packers and Movers Gurugram</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-guwahati/">Packers and Movers Guwahati</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-gwalior/">Packers and Movers Gwalior</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-haridwar/">Packers and Movers Haridwar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-hazaribagh/">Packers and Movers Hazaribagh</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-hubli/">Packers and Movers Hubli</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-hyderabad/">Packers and Movers Hyderabad</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-hyderabad-2/">Packers and Movers Hyderabad-2</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-indore/">Packers and Movers Indore</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jabalpur/">Packers and Movers Jabalpur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jaipur/">Packers and Movers Jaipur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jaipur-2/">Packers and Movers Jaipur-2</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jaisalmer/">Packers and Movers Jaisalmer</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-md-6 footer-links">
+<h4>Branches</h4>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jalandhar/">Packers and Movers Jalandhar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jalore /">Packers and Movers Jalore </a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jamnagar/">Packers and Movers Jamnagar</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jamshedpur/">Packers and Movers Jamshedpur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jhansi/">Packers and Movers Jhansi</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-jodhpur/">Packers and Movers Jodhpur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-kakinada/">Packers and Movers Kakinada</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-kanpur/">Packers and Movers Kanpur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-kolkata/">Packers and Movers Kolkata</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-kolkata2/">Packers and Movers Kolkata2</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-lucknow/">Packers and Movers Lucknow</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-ludhiana/">Packers and Movers Ludhiana</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-madurai/">Packers and Movers Madurai</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-mangalore/">Packers and Movers Mangalore</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-mathura/">Packers and Movers Mathura</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-meerut/">Packers and Movers Meerut</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-mohali/">Packers and Movers Mohali</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-mumbai1/">Packers and Movers Mumbai1</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-mumbai2/">Packers and Movers Mumbai2</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-muradabad/">Packers and Movers Muradabad</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-mysuru/">Packers and Movers Mysuru</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-nagpur/">Packers and Movers Nagpur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-nashik/">Packers and Movers Nashik</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-new-delhi/">Packers and Movers New-Delhi</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-noida/">Packers and Movers Noida</a></li>
+</ul>
+</div>
+<div class="col-lg-3 col-md-6 footer-links">
+<h4>Branches</h4>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-pali/">Packers and Movers Pali</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-pathankot/">Packers and Movers Pathankot</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-patna/">Packers and Movers Patna</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-prayagraj/">Packers and Movers Prayagraj</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-pune/">Packers and Movers Pune</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-raigarh/">Packers and Movers Raigarh</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-raipur/">Packers and Movers Raipur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-rajkot/">Packers and Movers Rajkot</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-ranchi/">Packers and Movers Ranchi</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-rewari /">Packers and Movers Rewari </a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-roulkela /">Packers and Movers Roulkela </a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-salem/">Packers and Movers Salem</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-siliguri/">Packers and Movers Siliguri</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-surat/">Packers and Movers Surat</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-udaipur/">Packers and Movers Udaipur</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-vadodara/">Packers and Movers Vadodara</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-vapi/">Packers and Movers Vapi</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-varanasi/">Packers and Movers Varanasi</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-vijayawada/">Packers and Movers Vijayawada</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-visakhapatnam/">Packers and Movers Visakhapatnam</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-vizag/">Packers and Movers Vizag</a></li>
+</ul>
+<ul>
+<li><i class="bx bx-chevron-right"></i> <a href="https://www.allindiapackersgroup.in/packers-and-movers-zirakpur/">Packers and Movers Zirakpur</a></li>
+</ul>
+
+</div>
+
+</div>
+<div class="col-lg-3 col-md-6 footer-contact">
+<h3>APM Packers Group</h3>
+<h4>Head Office</h4>
+<p>
+
+<strong>Email:</strong> info@allindiapackersgroup.in<br>
+</p>
+</div>
+</div>
+
+</div>
+
+	</body>
+
+</html>
